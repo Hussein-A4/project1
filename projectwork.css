@@ -1,0 +1,40 @@
+.title {
+    text-align: center;
+    color:rgb(0, 0, 0);
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    background-color: #f86262;
+    padding: 5px;
+  }
+.header{
+      background-color: rgb(225, 210, 0);
+      text-align: center;
+      font-size: 50px;
+  }
+  
+.text{
+    border: 3px solid rgb(0, 255, 13);
+    background-color: rgb(38, 147, 241);
+    text-align: center;
+    font-size: 30px;
+}
+
+.blanktext{
+    text-align: center;
+    font-size: 30px;
+}
+
+.character{
+    background-color: rgb(25, 223, 75);
+    text-align: center;
+    font-size: 50px;
+}
+
+.img{
+    text-align: center;
+}
+
